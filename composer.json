@@ -1,0 +1,24 @@
+{
+	"name":"sites/plataforma-mapas",
+	"description":"Plataforma de Publicidad en mapas",
+	"type":"project",
+	"authors":[
+		{
+			"name":"Plataforma_de_publicidad_en_mapas",
+			"email":"walter.rosales@gmail.com",
+			"homepage":"http://visionestrategica.com",
+			"role":"administrador"
+		}
+
+	],
+	"require":{
+
+		"php":"<=5.4.3",
+		"dompdf/dompdf":"dev-master"
+	},
+	"autoload":{
+		"psr-4":{
+
+		}
+	}
+}
